@@ -11,6 +11,7 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="Alive" target="1.8" />
+      <module name="java_demo" target="8" />
     </bytecodeTargetLevel>
   </component>
 </project>

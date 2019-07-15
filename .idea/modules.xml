@@ -4,7 +4,6 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Alive.iml" filepath="$PROJECT_DIR$/Alive.iml" />
       <module fileurl="file://$PROJECT_DIR$/LuaDemo/LuaDemo.iml" filepath="$PROJECT_DIR$/LuaDemo/LuaDemo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/pythonDemo/pythonDemo.iml" filepath="$PROJECT_DIR$/pythonDemo/pythonDemo.iml" />
     </modules>
   </component>
 </project>
