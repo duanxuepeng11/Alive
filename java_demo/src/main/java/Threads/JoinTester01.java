@@ -1,7 +1,6 @@
 package Threads;
 
 import java.util.Date;
-import java.util.concurrent.TimeUnit;
 
 public class JoinTester01 implements Runnable {
     private String name;

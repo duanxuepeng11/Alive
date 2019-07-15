@@ -1,6 +1,5 @@
 import kafka.admin.AdminUtils;
 import kafka.admin.RackAwareMode;
-import kafka.server.ConfigType;
 import kafka.utils.ZkUtils;
 
 import java.util.*;
@@ -11,11 +10,7 @@ import org.apache.kafka.common.TopicPartition;
 import org.apache.kafka.common.security.JaasUtils;
 
 
-import org.apache.zookeeper.ZKUtil;
-import scala.collection.Iterator;
 import scala.collection.JavaConversions;
-import scala.collection.JavaConversions.*;
-import scala.collection.Seq;
 
 public class kafkaJDBC {
 

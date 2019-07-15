@@ -1,6 +1,5 @@
 package JDBC;
 
-import javax.swing.table.TableRowSorter;
 import java.sql.*;
 
 import java.util.ResourceBundle;
